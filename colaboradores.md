@@ -4,6 +4,7 @@
 * Mark Zamudio
 * Paul Salgado
 * Fernanda Garica
+* Luis Alcantar
 
 Miembros distinguidos de la corporacion
 Andrea Castillo
